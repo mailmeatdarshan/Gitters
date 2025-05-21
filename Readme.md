@@ -21,8 +21,9 @@
 ## 🖥️ Preview
 
 <div align="center">
-  <img src="./assets/readme1.png" alt="Gitters Light Mode" width="48%">
-  <img src="./assets/readme2.png" alt="Gitters Dark Mode" width="48%">
+  <img src="./assets/readme1.png" alt="Gitters Light Mode" width="100%">
+
+  <img src="./assets/readme2.png" alt="Gitters Dark Mode" width="100%">
 </div>
 
 ## 🛠️ Built With
@@ -84,7 +85,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📬 Contact
 
-Your Name - [main.darshan](https://www.instagram.com/main.darshan/) - mailmeat@gmail.com
+Darshan Dubey - [main.darshan](https://www.instagram.com/main.darshan/) - mailmeat@gmail.com
 
 Project Link: [gitters](https://github.com/mailmeatdarshan/gitters)
 
